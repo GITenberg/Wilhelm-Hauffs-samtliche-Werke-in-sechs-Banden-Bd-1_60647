@@ -1,5 +1,8 @@
 _repo: Wilhelm-Hauffs-samtliche-Werke-in-sechs-Banden-Bd-1_60647
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60647-h/images/cover.jpg
 creator:
   author:
     agent_name: Hauff, Wilhelm
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '51069'
     url: http://www.gutenberg.org/2009/agents/51069
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60647#Wilhelm-Hauffs-samtliche-Werke-in-sechs-Banden-Bd-1
 gutenberg_issued: '2019-11-08'
 gutenberg_type: Text
 identifiers:
